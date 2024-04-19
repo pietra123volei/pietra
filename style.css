@@ -1,1 +1,12 @@
-.cabeçalho{background-color: black;}
+* {
+margin: 0;
+padding: 0;
+}          
+
+
+.Cabeçalho{ background-color: black;
+color: white;
+
+display: flex;
+justify-content: space-around;
+}
