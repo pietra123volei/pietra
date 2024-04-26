@@ -1,12 +1,43 @@
 * {
-margin: 0;
-padding: 0;
-}          
+    margin: 0;
+    padding: 0;
+}
 
 
-.Cabeçalho{ background-color: black;
-color: white;
+.Cabeçalho {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 
-display: flex;
-justify-content: space-around;
+}
+
+.cabeçalho-div{
+    display:flex ;
+}
+
+.pergunta{
+background-image: linear-gradient(#000000, #861010);
+}
+
+.Sabores{
+background-image: linear-gradient( #861010, #000000 );
+
+}
+
+.sabores-img-maracuja{
+width: 35%;
+
+}
+
+.sabores-img-2maracuja{
+width: 10%;
+
+}
+
+.sabores-img-2maracuja{
+width: 10%;
+
 }
