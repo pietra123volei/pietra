@@ -28,7 +28,7 @@ background-image: linear-gradient( #861010, #000000 );
 }
 
 .sabores-img-maracuja{
-width: 35%;
+width: 25%;
 
 }
 
@@ -41,3 +41,15 @@ width: 10%;
 width: 10%;
 
 }
+
+.sabores-img-morango{
+width: 25;
+
+}
+
+.pergunta{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around
+}
+
