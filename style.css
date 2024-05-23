@@ -18,6 +18,15 @@
     display:flex ;
 }
 
+.cabeçalho-imagem2{
+width: 12%;
+ 
+
+}
+
+
+
+
 .pergunta{
 background-image: linear-gradient(#000000, #861010);
 }
@@ -28,7 +37,8 @@ background-image: linear-gradient( #861010, #000000 );
 }
 
 .sabores-img-maracuja{
-width: 25%;
+width: 20%;
+
 
 }
 
@@ -43,7 +53,7 @@ width: 10%;
 }
 
 .sabores-img-morango{
-width: 25;
+width: 21%;
 
 }
 
@@ -51,5 +61,23 @@ width: 25;
     color: aliceblue;
     display: flex;
     justify-content: space-around
+}
+
+.Sabores-h3{
+text-align: center;
+font-size: 60px;;
+}
+
+.pergunta-titulo {
+    font-size: 50px;
+text-align: center;
+}
+
+.pergunta-titulo-div{
+font-size: 40px;
+text-align: center;
+text-decoration-style: inherit;
+
+
 }
 
