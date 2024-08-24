@@ -73,6 +73,14 @@ padding: 100px;
     justify-content: space-around
 }
 
+
+.Sabores {
+display: flex;
+
+}
+
+
+
 .Sabores-h3{
 text-align: center;
 font-size: 60px;;
